@@ -3,35 +3,56 @@
 #### 介绍
 该仓库包含了我大学期间所做的视觉设计。
 
-#### 软件架构
-软件架构说明
+#### 目录
 
+│  README.en.md
+│  README.md
+│  西电云摆摊空间说说推广文案.md
+│  
+├─logo设计
+│      AIOps实验室【蓝色】.jpg
+│      个人网站logo.jpg
+│      
+├─ppt
+│      欢迎来到动画世界~.mp4
+│      
+├─懒羊羊的奇思妙想
+│      一口吃掉冰墩墩雪融融.png
+│      世界名牛——戴珍珠耳环的少牛.jpg
+│      世界名牛——蒙娜丽牛.jpg
+│      兵乓天团.jpg
+│      华为IP形象设计图——华小为Kylin.png
+│      小眼睛大帅哥.jpg
+│      秋天的芭蕾1.png
+│      秋天的芭蕾2.png
+│      秋天的芭蕾3.png
+│      
+├─我和西电的故事
+│      1.png
+│      2.png
+│      3.png
+│      4.png
+│      5.png
+│      6.png
+│      7.png
+│      8.png
+│      
+├─插画
+│      54青年.png
+│      学生运动.png
+│      
+└─海报
+    │  华为全连接大会宣传海报【正面】.png
+    │  荣耀新影像宣传海报.png
+    │  
+    ├─充满小心机的宣传单
+    │      华为招牌+西电90周年校庆=double buff.jpg
+    │      猫猫吸引力法则！.png
+    │      
+    └─有趣的新年海报哟~
+            华为logo状的脑斧爪~.png
+            壬寅·虎.png
+            戴珍珠耳环的少虎——倒计时3.png
+            梵高虎的自画像——倒计时1.png
+            虎里达的自画像——倒计时2.png
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
