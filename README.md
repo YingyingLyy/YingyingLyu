@@ -1,9 +1,9 @@
 # 懒羊羊的作品集
 
-#### 介绍
+## 介绍
 该仓库包含了我大学期间所做的视觉设计。  
 
-#### 目录  
+## 目录  
 
 │  README.en.md  
 │  README.md  
@@ -50,9 +50,9 @@
 &ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp;   猫猫吸引力法则！.png  
 &ensp;&ensp;    │         
 &ensp;&ensp;    └─有趣的新年海报哟~  
-      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;    华为logo状的脑斧爪~.png  
-      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;    壬寅·虎.png  
-      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;    戴珍珠耳环的少虎——倒计时3.png  
-      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;    梵高虎的自画像——倒计时1.png  
-      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;    虎里达的自画像——倒计时2.png  
+      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    华为logo状的脑斧爪~.png  
+      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    壬寅·虎.png  
+      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    戴珍珠耳环的少虎——倒计时3.png  
+      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    梵高虎的自画像——倒计时1.png  
+      &ensp;  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    虎里达的自画像——倒计时2.png  
 
