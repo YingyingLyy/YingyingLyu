@@ -58,13 +58,13 @@
 │          
 └─UI设计    
 &ensp;&ensp;    ├─《echo》网页设计   
-&ensp;&ensp;     &ensp;&ensp;&ensp;&ensp; 1_echo欢迎页.png  
-&ensp;&ensp;     &ensp;&ensp;&ensp;&ensp; 2_echo注册页.png  
-&ensp;&ensp;     &ensp;&ensp;&ensp;&ensp; 3_echo登录页.png  
-&ensp;&ensp;     &ensp;&ensp;&ensp;&ensp; 4_echo志愿者个人页面.png  
-&ensp;&ensp;     &ensp;&ensp;&ensp;&ensp; 5_echo写信页面.png  
-&ensp;&ensp;        
-&ensp;&ensp;    ├─《HIC第四区》小程序UI设计   
+&ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp; 1_echo欢迎页.png  
+&ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp; 2_echo注册页.png  
+&ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp; 3_echo登录页.png  
+&ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp; 4_echo志愿者个人页面.png  
+&ensp;&ensp;    │ &ensp;&ensp;&ensp;&ensp; 5_echo写信页面.png  
+&ensp;&ensp;    │    
+&ensp;&ensp;    └─《HIC第四区》小程序UI设计   
 &ensp;&ensp;     &ensp;&ensp;&ensp;&ensp;   1_主页_欢迎页.png   
 &ensp;&ensp;     &ensp;&ensp;&ensp;&ensp;   2.1_管理员个人首页.png   
 &ensp;&ensp;     &ensp;&ensp;&ensp;&ensp;   2.2_组员个人首页.png   
